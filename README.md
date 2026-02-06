@@ -6,8 +6,7 @@
 
 
 ## Project Overview
-This project presents a Microsoft Excel dashboard designed to provide an overview of patient admissions, billing patterns, and demographic distributions across multiple hospitals over a period of six years. The dataset used is synthetic and intended for analytical demonstration purposes.  
-The dashboard focuses on descriptive healthcare reporting, highlighting trends, volumes, and distributions.
+This project presents a Microsoft Excel dashboard designed to provide an overview of patient admissions, billing patterns, and demographic distributions across multiple hospitals over a period of six years. The dashboard focuses on descriptive healthcare reporting, highlighting trends, volumes, and distributions.
 
 ---
 
@@ -71,6 +70,14 @@ These KPIs provide a snapshot of overall hospital activity and billing scale.
 ### Gender Distribution
 - Provides demographic context.  
 - Gender distribution is nearly equally balanced between Males and Females.  
+
+---
+
+## Limitations
+
+- The dataset is synthetic, so the findings may not fully reflect real hospital operations.
+- The analysis is descriptive, not predictive, which means it does not support forecasting future admissions or outcome-based evaluations.
+- The dataset does not include information on bed capacity, staffing, or operating costs, so operational efficiency and resource utilization could not be evaluated.
 
 ---
 
